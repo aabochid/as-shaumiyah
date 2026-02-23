@@ -1,0 +1,8 @@
+{
+  "name": " TK As-Shaumiyah Website",
+  "description": "Website resmi TK As-Shaumiyah, mencetak generasi qurani yang cerdas, mandiri, dan berakhlakul karimah melalui pendidikan berkualitas berbasis nilai-nilai Islam.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
